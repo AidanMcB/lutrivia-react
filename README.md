@@ -12,6 +12,10 @@ Good luck. When you are finished, jump back on labs!
 
 ![Lutrivia wireframes](./wireframe.png)
 
+## Server
+* Run `json-server --watch db.json` in the root folder of the project
+* Use fetch to get the question data from `http://localhost:3000/questions`
+
 ## Component hierarchy
 
 - App
